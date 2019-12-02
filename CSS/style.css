@@ -1,0 +1,24 @@
+body { background: #f5df98;}
+.container .row{width: 100%; align-self: center;}
+.container {max-width: 100%;}
+#bannertext{background:#eda047; text-align: center;font-family: 'Alegreya Sans', sans-serif;}
+#bannerimg {}
+#fbicon {}
+#maincontent {margin: 20px 0px; padding: 40px;; font-size: 3rem; color: black;line-height: 4rem; position:relative; top:-430px; font-weight: 500;}
+#conback {background: url("../images/yoga.jpg");  background-position: 50% 50%; min-height: 400px; opacity: 0.3;}
+ul {margin: 20px;}
+ul li {display: inline; list-style: none; margin: 10px;}
+ul li a {color: black; font-size: 2rem;text-decoration: none;}
+ul li a:hover{color: salmon;}
+.icon {width: 30px; margin: 20px 0px; border-radius:20%;}
+
+.mapcontent{margin-top: 50px; font-size: 2.5rem; background-color: #eda047;}
+.mapcontent {padding:20px;}
+.mapsection{margin: 10px;}
+.directionbutton{margin:10px;}
+#inputbutton {background-color: orange;}
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
